@@ -1,9 +1,9 @@
-# libuhttpd-openwrt
+# libuhttpd-feed
 
 # How to use
 Add new feed into "feeds.conf.default":
 
-    src-git libuhttpd https://github.com/zhaojh329/libuhttpd-openwrt.git
+    src-git libuhttpd https://github.com/zhaojh329/libuhttpd-feed.git
 
 Install libuhttpd packages:
 

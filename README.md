@@ -7,7 +7,7 @@ Add new feed into "feeds.conf.default":
 
 Install libuhttpd packages:
 
-    ./scripts/feeds update
+    ./scripts/feeds update libuhttpd
     ./scripts/feeds install libuhttpd
 
 Select package libuhttpd in menuconfig and compile new image.
